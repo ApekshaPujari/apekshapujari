@@ -10,6 +10,6 @@ Building real-world Data Analytics projects and strengthening my skills in Power
 
 - 📚 Projects
 
-📊 Sales Performance Dashboard[https://github.com/ApekshaPujari/Sales-Performance-Dashboard]
-🏥 [Hospital Emergency Room Dashboard] 
+📊 Sales Performance Dashboard
+🏥 Hospital Emergency Room Dashboard
 
