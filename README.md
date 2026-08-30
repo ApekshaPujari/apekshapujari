@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Apeksha 🙋🏻‍♀️
 
-<!--
-**ApekshaPujari/apekshapujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about turning data into meaningful insights and creating clear, interactive dashboards that help tell the story behind the numbers.
 
-Here are some ideas to get you started:
+I enjoy solving problems with data, learning new tools, and building practical projects that turn raw data into useful insights. 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently Working On
+
+Building real-world Data Analytics projects and strengthening my skills in Power BI, SQL, Python, and Excel.
+
+- 📚 Projects
+
+📊 Sales Performance Dashboard[https://github.com/ApekshaPujari/Sales-Performance-Dashboard]
+🏥 [Hospital Emergency Room Dashboard] 
+
