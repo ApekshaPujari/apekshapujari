@@ -1,25 +1,36 @@
-Hi there! I'm Apeksha 🙋🏻‍♀️
 
-Welcome to my GitHub! 🚀
+# Hi there! I'm Apeksha 🙋🏻‍♀️
+
+Welcome to my GitHub!
 
 I'm a Data Analyst who enjoys turning messy data into clear insights, useful dashboards, and simple stories.
 
 I work with SQL, Power BI, Excel, Python, Pandas, and DAX, and I’m building hands-on projects to solve real-world business problems.
 
-🛠️ Tools I Use
+## 🌟 About Me
 
-SQL • Power BI • Excel • Python
-Pandas • NumPy • Power Query • DAX
+- 📊 Focused on turning data into actionable insights
+- 🗄️  Using SQL for data analysis and querying
+- 🐍 Using Python & Pandas for data analysis
+- 📈 Building interactive dashboards with Power BI
+- 📗 Using Excel & Power Query for data preparation and analysis
+- 📐 Using DAX for data modeling and analysis
+- 🚀 Creating practical projects based on real-world business problems
 
-📊 What You'll Find Here
-📈 Power BI dashboards
-🗃️ SQL analysis projects
-🐍 Python data analysis
-💡 Business insights & experiments
-🌱 Currently
+## 🛠️ Skills
 
-Learning, building, and getting better at turning data into decisions.
+### 📊 Data Analytics
 
-📫 Let's Connect
+**SQL** • **Python** • **Excel** • **Power BI**
 
-💼 LinkedIn
+### 🐍 Python
+**Pandas** • **NumPy** • **Matplotlib** • **Seaborn**
+
+### 📈 BI & Data Transformation
+
+**Power BI** • **Power Query** • **DAX**
+
+## 📫 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/apekshap01)
+
