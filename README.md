@@ -21,14 +21,15 @@ I work with SQL, Power BI, Excel, Python, Pandas, and DAX, and I’m building ha
 
 ### 📊 Data Analytics
 
-**SQL** • **Python** • **Excel** • **Power BI**
+SQL • Python • Excel • Power BI
 
 ### 🐍 Python
-**Pandas** • **NumPy** • **Matplotlib** • **Seaborn**
+
+Pandas • NumPy • Matplotlib • Seaborn
 
 ### 📈 BI & Data Transformation
 
-**Power BI** • **Power Query** • **DAX**
+Power Query • DAX
 
 ## 📫 Let's Connect
 
